@@ -1,0 +1,2 @@
+# replaceInFilesNameInADiro_SimpleAndByRegex
+
